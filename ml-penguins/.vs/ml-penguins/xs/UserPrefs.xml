@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AD335B6B-FA9B-8504-0F94-C78B766AD247}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/penguin_assets_v0.14/scripts/PenguinAcademy.cs">
+    <Files>
+      <File FileName="Assets/penguin_assets_v0.14/scripts/PenguinAcademy.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ml-penguins" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="penguin_assets_v0.14" expanded="True">
+                <Node name="scripts" expanded="True">
+                  <Node name="PenguinAcademy.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="371fe17b-d2c0-417d-8b08-69c15b7fdc83" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
